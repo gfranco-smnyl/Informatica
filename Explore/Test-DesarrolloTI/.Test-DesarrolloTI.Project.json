@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "5PaYc3fUOFDdDcMU2VFk4k",
+    "name" : "Test-DesarrolloTI",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Pruebas de los jobs de TI desarrollo.",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
